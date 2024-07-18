@@ -1,3 +1,5 @@
+Threads App - MERN
+
 🖥️ Tech Stack
 
 Frontend: Reactjs,Redux,Chakra-UI
